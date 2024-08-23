@@ -1,0 +1,44 @@
+html{
+    background-color: whitesmoke;
+}
+
+
+#images{
+    background-color: white;
+    justify-content:left;
+    display: flex;
+    width: 1300px;
+    height: 598.08px;
+}
+.p1{
+  
+   width: 400px;
+   
+}
+.p2{
+   
+    width: 400px;
+    padding-left: 10px;
+    
+ }
+.p3{
+   
+    width: 400px;
+    padding-left: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding:5px 15px;
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    background-color: skyblue;
+    border-style: none;
+}
